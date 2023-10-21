@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDom from 'react-dom'
 import { createRoot } from 'react-dom/client'
-import './popup.css'
+import '../style.css'
 
 const App: React.FC<{}> = () => {
   return (
